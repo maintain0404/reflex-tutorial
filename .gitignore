@@ -3,3 +3,5 @@
 __pycache__/
 reflex.db
 .reflex-venv
+
+.DS_Store
