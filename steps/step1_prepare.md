@@ -68,7 +68,7 @@
     ```
     
 
-## 준비된 설정(Github Codespace + devcontainer)
+## 준비된 설정 및 Codespace 사용(Github Codespace + devcontainer)
 
 <aside>
 💡 Github 계정이 필요합니다.
@@ -80,8 +80,9 @@ devcontainer를 사용하실 줄 안다면 로컬 환경에서 설정하셔도 �
 </aside>
 
 1. [리포지토리](https://github.com/maintain0404/reflex-tutorial-box)에서 초록색 코드를 누릅니다.
+     ![Alt text](image.png)
 2. codespace를 선택하고 `+` 를 눌러 환경을 추가합니다.
-3. 환경 추가 및 프로비저닝 대기
+3. 환경 추가 및 프로비저닝 완료까지 기다립니다.
 4. reflex를 설치합니다.
     
     ```python
